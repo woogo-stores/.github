@@ -1,0 +1,9 @@
+{
+  "name": "Woogo Stores Production Release",
+  "description": "Woogo Stores Production Release Template",
+  "iconName": "example-icon",
+  "categories": [
+  ],
+  "filePatterns": [
+  ]
+}
